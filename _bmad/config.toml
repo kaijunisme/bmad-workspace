@@ -11,9 +11,9 @@
 # ─────────────────────────────────────────────────────────────────
 
 [core]
-project_name = "bmad-method"
-document_output_language = "Traditional Chinese"
-output_folder = "{project-root}/_bmad-output"
+project_name = "bmad-workspace"
+document_output_language = "English"
+output_folder = "_bmad-output"
 
 [modules.bmm]
 planning_artifacts = "{project-root}/_bmad-output/planning-artifacts"

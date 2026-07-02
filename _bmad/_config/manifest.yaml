@@ -1,40 +1,31 @@
 installation:
-  version: 6.8.0
+  version: 6.9.0
   installDate: 2026-04-26T13:04:03.514Z
-  lastUpdated: 2026-05-28T01:15:29.812Z
+  lastUpdated: 2026-07-02T12:32:59.069Z
 modules:
   - name: core
-    version: 6.8.0
+    version: 6.9.0
     installDate: 2026-04-26T13:04:02.381Z
-    lastUpdated: 2026-05-28T01:15:29.808Z
+    lastUpdated: 2026-07-02T12:32:59.064Z
     source: built-in
     npmPackage: null
     repoUrl: null
   - name: bmm
-    version: 6.8.0
+    version: 6.9.0
     installDate: 2026-04-26T13:04:02.350Z
-    lastUpdated: 2026-05-28T01:15:29.809Z
+    lastUpdated: 2026-07-02T12:32:59.065Z
     source: built-in
     npmPackage: null
     repoUrl: null
   - name: bmb
-    version: v1.8.1
+    version: v2.1.0
     installDate: 2026-04-26T13:04:02.495Z
-    lastUpdated: 2026-05-28T01:15:29.810Z
+    lastUpdated: 2026-07-02T12:32:59.069Z
     source: external
     npmPackage: bmad-builder
     repoUrl: https://github.com/bmad-code-org/bmad-builder
     channel: stable
-    sha: 3410d952eafe621f31fcdf4dd5efb2b06690a306
-  - name: baut
-    version: 1.14.2
-    installDate: 2026-05-14T02:28:50.613Z
-    lastUpdated: 2026-05-28T01:15:29.812Z
-    source: unknown
-    npmPackage: null
-    repoUrl: null
-    channel: stable
-    sha: 593f338532ea730b5c1a2dd86681e87b5b4f04dd
+    sha: d54981a8ba3b990148256455ccf4e6c1cb4918f0
 ides:
   - claude-code
   - codex
