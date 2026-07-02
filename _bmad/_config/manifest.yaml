@@ -1,65 +1,65 @@
 installation:
-  version: 6.6.0
+  version: 6.9.0
   installDate: 2026-04-26T13:04:03.514Z
-  lastUpdated: 2026-05-14T02:28:51.568Z
+  lastUpdated: 2026-07-02T12:27:42.882Z
 modules:
   - name: core
-    version: 6.6.0
+    version: 6.9.0
     installDate: 2026-04-26T13:04:02.381Z
-    lastUpdated: 2026-05-14T02:28:50.734Z
+    lastUpdated: 2026-07-02T12:27:42.861Z
     source: built-in
     npmPackage: null
     repoUrl: null
   - name: bmm
-    version: 6.6.0
+    version: 6.9.0
     installDate: 2026-04-26T13:04:02.350Z
-    lastUpdated: 2026-05-14T02:28:50.735Z
+    lastUpdated: 2026-07-02T12:27:42.863Z
     source: built-in
     npmPackage: null
     repoUrl: null
-  - name: bmb
-    version: v1.8.0
-    installDate: 2026-04-26T13:04:02.495Z
-    lastUpdated: 2026-05-14T02:28:50.855Z
-    source: external
-    npmPackage: bmad-builder
-    repoUrl: https://github.com/bmad-code-org/bmad-builder
-    channel: stable
-    sha: d64469f61fadc6cfbf2dea6a0a257fe6eb2790a2
-  - name: cis
-    version: v0.2.0
-    installDate: 2026-04-26T13:04:02.534Z
-    lastUpdated: 2026-05-14T02:28:50.897Z
-    source: external
-    npmPackage: bmad-creative-intelligence-suite
-    repoUrl: https://github.com/bmad-code-org/bmad-module-creative-intelligence-suite
-    channel: stable
-    sha: 14a63b893c07173b7a6cfe0fb6a9a72ba51d3cf1
-  - name: gds
-    version: v0.4.0
-    installDate: 2026-04-26T13:04:02.879Z
-    lastUpdated: 2026-05-14T02:28:50.940Z
-    source: external
-    npmPackage: bmad-game-dev-studio
-    repoUrl: https://github.com/bmad-code-org/bmad-module-game-dev-studio
-    channel: stable
-    sha: 07ef779abaafb21fe3a8d80d57cf0b4dc9801d60
   - name: tea
-    version: v1.17.0
+    version: v1.19.0
     installDate: 2026-04-26T13:04:03.326Z
-    lastUpdated: 2026-05-14T02:28:51.459Z
+    lastUpdated: 2026-07-02T12:27:42.866Z
     source: external
     npmPackage: bmad-method-test-architecture-enterprise
     repoUrl: https://github.com/bmad-code-org/bmad-method-test-architecture-enterprise
     channel: stable
-    sha: 4360295a45d8cb55ae89491c8a5fb4b7ac223bf0
-  - name: baut
-    version: v1.14.2
-    installDate: 2026-05-14T02:28:50.613Z
-    lastUpdated: 2026-05-14T02:28:51.568Z
+    sha: 8734d51f24071ddbcb3617390b5fcddb4128ef77
+  - name: bmb
+    version: v2.1.0
+    installDate: 2026-04-26T13:04:02.495Z
+    lastUpdated: 2026-07-02T12:27:42.871Z
     source: external
-    npmPackage: bmad-story-automator
-    repoUrl: https://github.com/bmad-code-org/bmad-automator
+    npmPackage: bmad-builder
+    repoUrl: https://github.com/bmad-code-org/bmad-builder
+    channel: stable
+    sha: d54981a8ba3b990148256455ccf4e6c1cb4918f0
+  - name: cis
+    version: v0.2.1
+    installDate: 2026-04-26T13:04:02.534Z
+    lastUpdated: 2026-07-02T12:27:42.875Z
+    source: external
+    npmPackage: bmad-creative-intelligence-suite
+    repoUrl: https://github.com/bmad-code-org/bmad-module-creative-intelligence-suite
+    channel: stable
+    sha: 07a8dd03d196a762f21c241d985293fe5b0f90e7
+  - name: gds
+    version: v0.6.0
+    installDate: 2026-04-26T13:04:02.879Z
+    lastUpdated: 2026-07-02T12:27:42.879Z
+    source: external
+    npmPackage: bmad-game-dev-studio
+    repoUrl: https://github.com/bmad-code-org/bmad-module-game-dev-studio.git
+    channel: stable
+    sha: 966fbc54db686f77fd0d68cae4164dce8cc98113
+  - name: baut
+    version: null
+    installDate: 2026-05-14T02:28:50.613Z
+    lastUpdated: 2026-07-02T12:27:42.882Z
+    source: unknown
+    npmPackage: null
+    repoUrl: null
     channel: stable
     sha: 593f338532ea730b5c1a2dd86681e87b5b4f04dd
 ides:
